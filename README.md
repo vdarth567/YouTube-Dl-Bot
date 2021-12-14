@@ -51,10 +51,10 @@ bash start.sh
 If you found a bug in this bot please open an [issue](https://github.com/IDN-C-X/IDN-YoutubeDL-Bot/issues) or report it at the [Support Group](https://t.me/IDNCoderX).
 
 ## Support
-<a href="https://t.me/IDNCoder">
+<a href="https://t.me/tellybots_support">
   <img src="https://img.shields.io/badge/Updates_Channel-0a0a0a?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
-<a href="https://t.me/IDNCoderX">
+<a href="https://t.me/tellybots">
   <img src="https://img.shields.io/badge/Support_Group-0a0a0a?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
